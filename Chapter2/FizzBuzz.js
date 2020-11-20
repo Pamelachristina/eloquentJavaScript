@@ -1,5 +1,5 @@
 // Loop 100 times, starting from the number 1
-/*for (let i = 0; i <= 100; i++) {
+for (let i = 0; i <= 100; i++) {
      // If divisible by 3 and 5,
     if (i % 3 === 0 && i % 5 === 0) {
         // print FizzBuzz.
@@ -19,7 +19,7 @@
     
     
     
-    }*/
+    }
 // Answer from Eloquent javascript
 for (let n = 1; n <= 100; n++) {
   let output = "";
