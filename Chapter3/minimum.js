@@ -1,0 +1,1 @@
+// chapter 2 introduced the standard function Math.min, which return its smallest argument (see "Return Values" on page 27). We can build something like that now. Write a function min that takes two argumentsand returns their minimum.
